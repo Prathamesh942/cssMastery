@@ -1,4 +1,4 @@
-###Responsive grid layout
-##Basic grid
-##Photo grid
-##animated grid
+### Responsive grid layout
+## Basic grid
+## Photo grid
+## animated grid
