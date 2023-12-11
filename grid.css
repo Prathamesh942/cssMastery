@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    background-color: rgb(19, 19, 19);
+    font-family: 'Permanent Marker', cursive;
+}
+
+body{
+    margin-top: 50px;
+}
+
+.card{
+    background-color: rgb(50, 50, 50);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 50px;
+    border-radius: 20px;
+}
+
+.card:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    transition: ease-in-out;
+}
+
+a,p{
+    color: rgb(153, 153, 153);
+    text-decoration: none;
+    margin: 50px;
+}
+
+section{
+    margin: 50px;
+}
